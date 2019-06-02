@@ -17,9 +17,6 @@
 			<div class='form-group'>
 				<input type="text" name="name" placeholder="Search Name Here" class='form-control' id='name'>
 			</div>
-			<div>
-				<input type="submit" name="submit" class='btn btn-info' id='submit'>
-			</div>
 		</form>
 		<br>
 		<br>
