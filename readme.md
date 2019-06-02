@@ -6,7 +6,7 @@
 
 <h4>Our website</h4>
 <a href="https://arrowempire.com" target='_blank'>Arrow Empire</a><br>
-<a href="https://86leaves.com">Forum</a>
+<a href="https://86leaves.com" target='_blank'>Forum</a>
 
 ## Free to download 
 
