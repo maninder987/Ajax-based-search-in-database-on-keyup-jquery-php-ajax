@@ -11,7 +11,7 @@
 ## Free to download 
 
 ##Demo Link
-<a href="https://86leaves.com/knowledge-base/ajax-search-on-keyup-using-jquery-free-download-code/?preview_id=1731&preview_nonce=08980e3f96&post_format=standard&preview=true">Check Demo Here</a>
+<a href="https://86leaves.com/knowledge-base/ajax-search-on-keyup-using-jquery-free-download-code/?preview_id=1731&preview_nonce=08980e3f96&post_format=standard&preview=true" target='_blank'>Check Demo Here</a>
 
 ##developer
 
