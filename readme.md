@@ -15,7 +15,7 @@
 
 ##developer
 
-<a href="https://manu.86leaves.com">Maninder Singh</a>
+<a href="https://manu.86leaves.com" target='_blank'>Maninder Singh</a>
 
 
 
