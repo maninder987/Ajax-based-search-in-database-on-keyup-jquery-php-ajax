@@ -13,5 +13,9 @@
 ##Demo Link
 <a href="https://86leaves.com/knowledge-base/ajax-search-on-keyup-using-jquery-free-download-code/?preview_id=1731&preview_nonce=08980e3f96&post_format=standard&preview=true">Check Demo Here</a>
 
+##developer
+
+<a href="https://manu.86leaves.com">Maninder Singh</a>
+
 
 
